@@ -1,0 +1,19 @@
+# --- Embeddings ---
+sentence-transformers==2.6.1
+
+# --- Vector Store (Windows Safe) ---
+qdrant-client==1.7.3
+
+# --- Utilities ---
+python-dotenv==1.0.1
+rich==13.7.1
+
+# --- LLM Clients ---
+openai==1.51.2
+transformers==4.39.3
+
+# --- UI / API (optional later) ---
+streamlit==1.36.0
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+``
